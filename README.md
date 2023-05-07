@@ -2,8 +2,6 @@
 
 Submitted by: *Pradeep Pansare*
 
-**Name of your app** is an app that introduces ... [TODO] 
-
 Time spent: **27** hours spent in total
 
 ## Required Features
